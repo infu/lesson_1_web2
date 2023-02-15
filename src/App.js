@@ -68,7 +68,7 @@ function App() {
                 <Prices />
               </TabPanel>
               <TabPanel>
-                <p>two 22222!</p>
+                <p>two 22222123123!</p>
               </TabPanel>
               <TabPanel>
                 <p>three!</p>
